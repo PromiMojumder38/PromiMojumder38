@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Promi Mojumder . Wife of Sumonta Saha Mridul who is the best husband
+#### I am Promi Mojumder.
 
 Here are some information about me
 
