@@ -20,7 +20,6 @@
 
 <h1 align = 'center'>Contribution🧑‍💻</h1>
 <p align = "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiMojumder38&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
-<p align = "center"> <img src="https://github-readme-stats.vercel.app/api?username=PromiMojumder38&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/><br/>
 <p align = "center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromiMojumder38&theme=dark&hide_border=false"/><br/>
 
 
