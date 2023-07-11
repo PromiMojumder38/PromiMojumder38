@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on [Web Developing](https://github.com/PromiMojumder38/Let-s-See-What-Happens)
 
-🌱 I’m currently learning **HTML, CSS, Python**
+🌱 I’m currently learning **Nodejs**
 
-💬 Ask me about **C++ and Java**
+💬 Ask me about **NOTHING**
 
 📫 How to reach me **promimojumder8@gmail.com**
 
