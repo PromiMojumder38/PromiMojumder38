@@ -3,17 +3,14 @@
 
 🔭 I am a motivated Software Engineering graduate with strong academic performance and a growing interest in research, web technologies, and data-driven problem solving. I enjoy building meaningful projects and exploring how technology can create social and educational impact.
 
-📫 How to reach me **promimojumder8@gmail.com**
-
----
+📫 How to reach me:  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:promimojumder8@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/promi.118) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/promi-mojumder-43772a1b6)
 
 ## 🎓 Education
 
 **BSc in Software Engineering**  
 Shahjalal University of Science and Technology (SUST), Bangladesh  
 CGPA: 3.81 / 4.00  
-
----
 
 ## 🛠 Technical Skills
 
@@ -52,7 +49,6 @@ CGPA: 3.81 / 4.00
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
----
 
 ## 🏗 Notable Projects
 
@@ -65,8 +61,6 @@ CGPA: 3.81 / 4.00
 - **Web Applications**  
   Developed responsive websites and application workflows using modern front-end technologies.
 
----
-
 ## 🔬 Research Interests
 
 - Educational Technology  
@@ -75,22 +69,12 @@ CGPA: 3.81 / 4.00
 - Student Motivation and Academic Culture  
 - Human-Centered Computing  
 
----
-
 ## 🧠 Currently Learning
 
 - Advanced JavaScript  
 - R/SPSS  
 - Data Science & Machine Learning  
 
----
-
-## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/promi.118) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/promi-mojumder-43772a1b6) 
-
----
 
 <h1 align="center">Contribution 🧑‍💻</h1>
 <p align="center">
