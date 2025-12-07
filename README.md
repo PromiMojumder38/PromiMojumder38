@@ -73,7 +73,7 @@ CGPA: 3.81 / 4.00
 
 
 
-## 🔬 Research Interests
+## 🔬 Research Experience
 
 - BERT-Based Emotion Classification in Bengali: Multiclass Sentiment Analysis of Bengali Translations of the Bhagavad Gita
 - A Mixed-Methods Study on How Departmental Culture AffectsStudent Motivation and Future Goals
