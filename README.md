@@ -2,15 +2,68 @@
 <h3 align="center">Passionate about web developing and data science.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-🔭 I’m currently working on [Web Developing](https://github.com/PromiMojumder38/Let-s-See-What-Happens)
-
-🌱 I’m currently learning **Nodejs**
-
-💬 Ask me about **NOTHING**
+🔭 I am a motivated Software Engineering graduate with strong academic performance and a growing interest in research, web technologies, and data-driven problem solving. I enjoy building meaningful projects and exploring how technology can create social and educational impact.
 
 📫 How to reach me **promimojumder8@gmail.com**
+
+---
+
+## 🎓 Education
+
+**BSc in Software Engineering**  
+Shahjalal University of Science and Technology (SUST), Bangladesh  
+CGPA: 3.81 / 4.00  
+
+---
+
+## 🛠 Technical Skills
+
+**Programming Languages:**  
+C, C++, Java, Python, JavaScript  
+
+**Web Technologies:**  
+HTML, CSS, Node.js, React, Next.js, REST APIs  
+
+**Databases:**  
+MySQL, MongoDB
+
+**Tools & Platforms:**  
+Git, GitHub, LaTeX, VS Code, Trello, Postman  
+
+---
+
+## 🏗 Notable Projects
+
+- **ShellBeeHaken HR Management System**  
+  Built using Next.js and MongoDB. Features include employee management, certificate uploads, and dynamic forms.
+
+- **Educational & Research Projects**  
+  Worked on sentiment analysis and emotion detection from Bangla religious texts (Bhagavad Gita dataset).
+
+- **Web Applications**  
+  Developed responsive websites and application workflows using modern front-end technologies.
+
+---
+
+## 🔬 Research Interests
+
+- Educational Technology  
+- Natural Language Processing (NLP)  
+- Bangla NLP and Ancient Text Analysis  
+- Student Motivation and Academic Culture  
+- Human-Centered Computing  
+
+---
+
+
+## 🧠 Currently Learning
+
+- Advanced JavaScript  
+- R/SPSS  
+- Data Science & Machine Learning  
+
+---
+
 
 # 💻 Familiar With: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
