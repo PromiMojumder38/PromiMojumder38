@@ -3,7 +3,8 @@
 
 🔭 I am a motivated Software Engineering graduate with strong academic performance and a growing interest in research, web technologies, and data-driven problem solving. I enjoy building meaningful projects and exploring how technology can create social and educational impact.
 
-📫 How to reach me:  
+📫 How to reach me: 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:promimojumder8@gmail.com) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/promi.118) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/promi-mojumder-43772a1b6)
 
 ## 🎓 Education
@@ -15,6 +16,7 @@ CGPA: 3.81 / 4.00
 ## 🛠 Technical Skills
 
 **Programming Languages:**  
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -23,6 +25,7 @@ CGPA: 3.81 / 4.00
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
 
 **Web Technologies:**  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white) 
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white) 
@@ -33,10 +36,12 @@ CGPA: 3.81 / 4.00
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 
 **Databases:**  
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 
 **Tools & Platforms:**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
@@ -46,6 +51,7 @@ CGPA: 3.81 / 4.00
 
 
 **Markup & Typesetting Languages:**  
+
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
@@ -55,19 +61,23 @@ CGPA: 3.81 / 4.00
 - **ShellBeeHaken HR Management System**  
   Built using Next.js and MongoDB. Features include employee management, certificate uploads, and dynamic forms.
 
-- **Educational & Research Projects**  
-  Worked on sentiment analysis and emotion detection from Bangla religious texts (Bhagavad Gita dataset).
+- **DNCC Waste Management Website**  
+  Code Samurai Hackathon Project  
+  • Built data entry modules, backend routes, and billing features (transport slips, fuel allocation).  
+  • Created API documentation and designed system diagrams.  
 
-- **Web Applications**  
-  Developed responsive websites and application workflows using modern front-end technologies.
+- **SUST Autorickshaw Management System**  
+  University Third-year Project  
+  • Developed a website to automate SUST's auto-rickshaw management, including document collection and requirement analysis.  
+  • Features include registration, payment records, bill generation, and scheduling system for efficient daily management.  
+
+
 
 ## 🔬 Research Interests
 
-- Educational Technology  
-- Natural Language Processing (NLP)  
-- Bangla NLP and Ancient Text Analysis  
-- Student Motivation and Academic Culture  
-- Human-Centered Computing  
+- BERT-Based Emotion Classification in Bengali: Multiclass Sentiment Analysis of Bengali Translations of the Bhagavad Gita
+- A Mixed-Methods Study on How Departmental Culture AffectsStudent Motivation and Future Goals
+- Research Interest: Human-Computer Interaction (HCI) for Education, Health, and Wellbeing, Natural Language Processing (NLP) for Social Impact and Ancient Texts, Bangla NLP and Cultural Text Analysis, Educational Technology and Student Motivation, Human-Centered Computing for Distressed and Marginalized Communities
 
 ## 🧠 Currently Learning
 
