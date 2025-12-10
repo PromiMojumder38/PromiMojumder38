@@ -86,8 +86,8 @@ CGPA: 3.81 / 4.00
 - Data Science & Machine Learning  
 
 
-<h1 align="center">Contribution 🧑‍💻</h1>
+<!-- <h1 align="center">Contribution 🧑‍💻</h1>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiMojumder38&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromiMojumder38&theme=dark&hide_border=false"/><br/>
-</p>
+</p> -->
