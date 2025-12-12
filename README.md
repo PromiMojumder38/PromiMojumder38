@@ -91,3 +91,6 @@ CGPA: 3.81 / 4.00
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PromiMojumder38&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromiMojumder38&theme=dark&hide_border=false"/><br/>
 </p> -->
+
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/df1d9be1-22f5-4018-bc19-11726cd1038c" />
+
